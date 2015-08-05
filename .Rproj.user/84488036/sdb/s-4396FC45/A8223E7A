@@ -1,0 +1,18 @@
+{
+    "contents" : "a=2\nb=1\nc=a+b\nc",
+    "created" : 1438790118594.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "885720257",
+    "id" : "A8223E7A",
+    "lastKnownWriteTime" : 1438790135,
+    "path" : "D:/SHAREDFOLDER/RalfsPython/Ralfs_Output_Project2/01_AnalysisScripts.R",
+    "project_path" : "01_AnalysisScripts.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "type" : "r_source"
+}
